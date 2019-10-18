@@ -21,7 +21,3 @@ print('a * b(mod m) = ', sumMul)
 sumDiv = div%m
 print('a / b(mod m) = ', int(sumDiv))
 
-#--------------------------------------
-#Oppgave 2
-#Inneholder en funksjon som beregner gcd(a,b) 
-#og finner x,y€Z slik at xa + yb = gcd(a,b)
